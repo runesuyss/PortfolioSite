@@ -78,7 +78,7 @@ html {
 .homepage {
     width: 100%;
     height: 100vh; /* Volledige schermhoogte */
-    background-image: url('/assets/images/Portfoliobg.png');
+    background-image: url('../images/Portfoliobg.png');
     background-size: cover;
     position: relative; /* Belangrijk voor z-index */
     z-index: 1; /* Zet homepage op een lagere laag */
@@ -190,7 +190,7 @@ html {
 .projects {
     width: 100%;
     height: 100vh; /* Zorg ervoor dat de sectie volledig schermhoogte is */
-    background-image: url('/assets/images/Projectenbg.png');
+    background-image: url('../images/Projectenbg.png');
     background-size: cover;
     background-position: center;
     display: flex; /* Gebruik Flexbox voor algemene centrering */
@@ -260,7 +260,7 @@ html {
 .wplopdrachten {
     width: 100%;
     height: 100vh; /* Zorg ervoor dat de sectie volledig schermhoogte is */
-    background-image: url('/assets/images/WPLOpdrachtenbg.png');
+    background-image: url('../images/WPLOpdrachtenbg.png');
     background-size: cover;
     background-position: center;
     display: flex; /* Gebruik Flexbox voor algemene centrering */
@@ -332,7 +332,7 @@ html {
 .eindreflectie {
     width: 100%;
     height: 100vh; /* Zorg ervoor dat de sectie volledig schermhoogte is */
-    background-image: url('/assets/images/Eindreflectiebg.png');
+    background-image: url('../images/Eindreflectiebg.png');
     background-size: cover;
     background-position: center;
     display: flex; /* Gebruik Flexbox voor algemene centrering */
@@ -367,7 +367,7 @@ html {
 .testimonials {
     width: 100%;
     height: 100vh; /* Zorg ervoor dat de sectie volledig schermhoogte is */
-    background-image: url('/assets/images/reviews.png');
+    background-image: url('../images/reviews.png');
     background-size: cover;
     background-position: center;
     display: flex; /* Gebruik Flexbox voor algemene centrering */
